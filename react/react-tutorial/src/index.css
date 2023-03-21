@@ -1,0 +1,8 @@
+.row {
+  margin: 20px 0px;
+}
+
+.card.active .card-header {
+  background-color: blue;
+  color: white;
+}
